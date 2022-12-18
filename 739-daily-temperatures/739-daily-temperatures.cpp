@@ -9,6 +9,10 @@ public:
         
         for(int i = t.size() - 2; i >= 0; i--) {
             index[t[i]] = i;
+            if(t[i] < t[i+1]) {
+                v[i] = 1;
+                continue;
+            }
             auto it = index.find(t[i]);
             minIndex = INT_MAX;
             
