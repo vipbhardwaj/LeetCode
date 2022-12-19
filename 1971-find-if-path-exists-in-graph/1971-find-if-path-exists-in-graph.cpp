@@ -9,17 +9,19 @@ public:
         }
         
         unordered_set<int> s;
-        dfs(source, s);
+        dfs(source, destination, s);
         if(s.find(source) != s.end() && s.find(destination) != s.end())
             return true;
         return false;
     }
     
-    void dfs(int e, unordered_set<int>& v) {
+    void dfs(int e, int d, unordered_set<int>& v) {
         if(v.find(e) != v.end())
             return;
         v.insert(e);
+        if(e == d)
+            return;
         for(int next: paths[e])
-            dfs(next, v);
+            dfs(next, d, v);
     }
 };
