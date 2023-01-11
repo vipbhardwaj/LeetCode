@@ -12,10 +12,7 @@ public:
     }
     
     int dfs(int node, int myCost, vector<bool>& hasApple) {
-	    if (v[node])
-	        return 0;
-	    
-        v[node] = true;
+	    v[node] = true;
         int childrenCost = 0;
         
         for (int x: g[node])
