@@ -19,7 +19,8 @@ public:
         int childrenCost = 0;
         
         for (int x: g[node])
-            childrenCost += dfs(x, 2, hasApple);
+            if(!v[x])
+                childrenCost += dfs(x, 2, hasApple);
         
         if (!childrenCost && !hasApple[node]) 
             return 0;
