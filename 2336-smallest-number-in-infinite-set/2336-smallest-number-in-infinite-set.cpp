@@ -3,9 +3,7 @@ public:
     unordered_set<int> s;
     int smallest = 1;
     
-    SmallestInfiniteSet() {
-        
-    }
+    SmallestInfiniteSet() {}
     
     int popSmallest() {
         s.insert(smallest);
@@ -19,20 +17,10 @@ public:
         if(s.find(num) == s.end())
             return;
         s.erase(num);
-        if(num < smallest) {
-            smallest = num;
-            return;
-        }
-        // smallest--;
-        // while(s.find(smallest) == s.end() && smallest)
-        //     smallest--;
-        // if(!smallest)
-        //     smallest = 1;
+        smallest = min(smallest, num);
     }
 };
 /**
-[ 1,2,3 ]
-
  * Your SmallestInfiniteSet object will be instantiated and called as such:
  * SmallestInfiniteSet* obj = new SmallestInfiniteSet();
  * int param_1 = obj->popSmallest();
