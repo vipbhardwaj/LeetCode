@@ -4,11 +4,9 @@ public:
         unordered_set<char> v = {'a', 'e', 'i', 'o', 'u'};
         int maxRes = 0, res = 0, i = 0, j = 0;
         
-        while(j < k) {
+        for(; j < k; j++)
             if(v.find(s[j]) != v.end())
                 res++;
-            j++;
-        }
         maxRes = max(res, maxRes);
         
         while(j < s.size()) {
