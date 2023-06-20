@@ -1,6 +1,10 @@
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        
         int n = nums.size();
         if(n < 2*k + 1)
             return vector<int>(n, -1);
