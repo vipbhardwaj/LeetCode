@@ -5,9 +5,7 @@ func minOperations(nums []int, k int) int {
     
     ans := 0
     for k > 0 {
-        if k&1 == 1 {
-            ans += 1
-        }
+        ans += k%2
         k >>= 1
     }
     return ans
