@@ -1,6 +1,7 @@
 func zeroFilledSubarray(nums []int) int64 {
-    var sum int64
-    var res int64
+    nums = append(nums, 1)
+    var sum, res int64 = 0, 0
+
     for _, n := range nums {
         if n == 0 {
             sum += 1
@@ -9,5 +10,5 @@ func zeroFilledSubarray(nums []int) int64 {
             sum = 0
         }
     }
-    return res + (sum * (sum+1) / 2)
+    return res
 }
