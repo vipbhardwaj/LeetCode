@@ -4,7 +4,7 @@ func zeroFilledSubarray(nums []int) int64 {
 
     for _, n := range nums {
         if n == 0 {
-            sum += 1
+            sum++
         } else {
             res += sum * (sum+1) / 2
             sum = 0
