@@ -4,14 +4,11 @@ func chalkReplacer(chalk []int, k int) int {
         chalkSum += i
     }
     
-    rem := k % chalkSum
-    // times := chalkSum / k
-    // fmt.Println(rem)
-    for i, n := range chalk {
-        if rem < n {
-            return i
-        }
-        rem -= n
+    k %= chalkSum
+    i := 0
+    for k >= chalk[i] {
+        k -= chalk[i]
+        i++
     }
-    return len(chalk)-1
+    return i
 }
