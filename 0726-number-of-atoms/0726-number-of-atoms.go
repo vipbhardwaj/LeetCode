@@ -25,13 +25,10 @@ func countOfAtoms(formula string) string {
             }
             if mul {
                 past := stack[len(stack)-1]
-                // fmt.Println(past)
                 stack = stack[:len(stack)-1]
                 for j:=past; j<len(atoms); j++ {
-                    // fmt.Println(atoms[j].e)
                     atoms[j].c *= num
                 }
-                // fmt.Println("_________")
             } else {
                 atoms[len(atoms)-1].c *= num
             }
@@ -43,13 +40,9 @@ func countOfAtoms(formula string) string {
                 element += string(r)
                 i++
             }
-            // fmt.Println(element)
             atoms = append(atoms, Atom{element, 1})
         }
     }
-    // for _, j := range atoms {
-    //     fmt.Println("e:", j.e, ", c:", j.c)
-    // }
     sort.Slice(atoms, func(i, j int) bool {
         return atoms[i].e < atoms[j].e
     })
