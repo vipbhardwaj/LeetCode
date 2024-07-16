@@ -10,30 +10,17 @@ func getDirections(root *TreeNode, startValue int, destValue int) string {
     ups, path1, _ := dfs(root, startValue, []rune{}, []int{})
     downs, path2, _ := dfs(root, destValue, []rune{}, []int{})
     
-    for i, j := 0, len(ups)-1; i < j; i, j = i+1, j-1 {
-        ups[i], ups[j] = ups[j], ups[i]
-    }
-    for i, j := 0, len(downs)-1; i < j; i, j = i+1, j-1 {
-        downs[i], downs[j] = downs[j], downs[i]
-    }
-    // s1 := string(ups)
-
-    // fmt.Println("UPS:", string(ups))
-    // fmt.Println("path1:", path1)
-    // fmt.Println("DOWNS:", string(downs))
-    // fmt.Println("path2:", path2)
-    
-    i := 1
-    for ; i < len(path1) && i < len(path2); i++ {
+    for i:=1; i < len(path1) && i < len(path2); i++ {
         if path1[i] != path2[i] {
             break
         }
+        ups = ups[:len(ups)-1]
+        downs = downs[:len(downs)-1]
     }
-    // fmt.Println(i)
-    ups = ups[i-1:]
-    downs = downs[i-1:]
-    // fmt.Println(strings.Repeat("U", len(ups)))
-    // fmt.Println(string(downs))
+    
+    for i, j := 0, len(downs)-1; i < j; i, j = i+1, j-1 {
+        downs[i], downs[j] = downs[j], downs[i]
+    }
     return strings.Repeat("U", len(ups)) + string(downs)
 }
 
