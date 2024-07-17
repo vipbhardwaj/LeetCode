@@ -15,15 +15,7 @@ func delNodes(root *TreeNode, to_delete []int) []*TreeNode {
     if _, ok := m[root.Val]; !ok {
         r = append(r, root)
     }
-    r = dfs(root, m, r)
-    // var res []*TreeNode
-    // for _, i := range r {
-    //     if _, ok := m[i.Val]; ok {
-    //         continue
-    //     }
-    //     res = append(res, i)
-    // }
-    return r
+    return dfs(root, m, r)
 }
 
 func dfs(n *TreeNode, d map[int]int, r []*TreeNode) []*TreeNode {
@@ -58,12 +50,8 @@ func dfs(n *TreeNode, d map[int]int, r []*TreeNode) []*TreeNode {
         }
     }
     if _, ok := d[n.Val]; ok {
-        if n.Left != nil {
-            n.Left = nil
-        }
-        if n.Right != nil {
-            n.Right = nil
-        }
+        n.Left = nil
+        n.Right = nil
     }
     
     return r
