@@ -16,7 +16,7 @@ func minDepth(root *TreeNode) int {
 
 func bfs(r *TreeNode, d int) int {
     q := []*TreeNode{r}
-    f:=0
+    f := 0
     for f < len(q) {
         s := len(q)
         for; f<s; f++ {
