@@ -10,7 +10,31 @@ func minDepth(root *TreeNode) int {
     if root == nil {
         return 0
     }
+    return bfs(root, 1)
     return dfs(root, 1)
+}
+
+func bfs(r *TreeNode, d int) int {
+    q := []*TreeNode{r}
+    f:=0
+    for f < len(q) {
+        s := len(q)
+        for; f<s; f++ {
+            // fmt.Print("f:", f)
+            n := q[f]
+            if n.Left == nil && n.Right == nil {
+                return d
+            }
+            if n.Left != nil {
+                q = append(q, n.Left)
+            }
+            if n.Right != nil {
+                q = append(q, n.Right)
+            }
+        }
+        d++
+    }
+    return d
 }
 
 func dfs(n *TreeNode, d int) int {
