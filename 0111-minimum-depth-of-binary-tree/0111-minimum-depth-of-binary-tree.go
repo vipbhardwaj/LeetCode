@@ -20,7 +20,6 @@ func bfs(r *TreeNode, d int) int {
     for f < len(q) {
         s := len(q)
         for; f<s; f++ {
-            // fmt.Print("f:", f)
             n := q[f]
             if n.Left == nil && n.Right == nil {
                 return d
