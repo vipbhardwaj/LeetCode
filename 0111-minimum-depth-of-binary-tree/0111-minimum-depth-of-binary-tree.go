@@ -18,7 +18,7 @@ func dfs(n *TreeNode, d int) int {
         return d
     }
     
-    ld, rd := 100000000, 100000000
+    ld, rd := math.MaxInt, math.MaxInt
     if n.Left != nil {
         ld = dfs(n.Left, d+1)
     }
