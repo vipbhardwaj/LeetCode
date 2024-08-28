@@ -1,15 +1,11 @@
 func countSubIslands(grid1 [][]int, grid2 [][]int) int {
-    v := make([][]bool, len(grid2))
-    for i:=0; i < len(grid2); i++ {
-        v[i] = make([]bool, len(grid2[0]))
-    }
     var flag bool
     var dfs func(int, int)
     dfs = func(i int, j int) {
-        if i < 0 || j < 0 || i >= len(grid2) || j >= len(grid2[0]) || grid2[i][j] == 0 || v[i][j] {
+        if i < 0 || j < 0 || i >= len(grid2) || j >= len(grid2[0]) || grid2[i][j] == 0 {
             return
         }
-        v[i][j] = true
+        grid2[i][j] = 0
         if grid1[i][j] != 1 {
             flag = false
         }
@@ -22,7 +18,7 @@ func countSubIslands(grid1 [][]int, grid2 [][]int) int {
     var res int
     for i:=0; i < len(grid2); i++ {
         for j:=0; j < len(grid1[0]); j++ {
-            if v[i][j] || grid2[i][j] == 0 {
+            if grid2[i][j] == 0 {
                 continue
             }
             flag = true
