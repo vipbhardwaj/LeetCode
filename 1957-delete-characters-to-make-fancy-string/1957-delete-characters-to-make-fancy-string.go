@@ -2,18 +2,26 @@ func makeFancyString(s string) string {
     if len(s) < 3 {
         return s
     }
-    streak := 1
+
     var builder strings.Builder
     builder.WriteByte(s[0])
-    for i:=1; i < len(s); i++ {
-        if (s[i] == s[i-1]) {
-            streak++
+    builder.WriteByte(s[1])
+    prev, curr := false, false
+    if s[0] == s[1] {
+        prev = true
+    }
+    for i:=2; i < len(s); i++ {
+        if s[i] == s[i-1] {
+            curr = true
         } else {
-            streak = 1
+            curr = false
         }
-        if streak < 3 {
-            builder.WriteByte(s[i])
+        if curr && prev {
+            prev = curr
+            continue
         }
+        prev = curr
+        builder.WriteByte(s[i])
     }
     return builder.String()
 }
