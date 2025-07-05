@@ -15,5 +15,5 @@ func kthCharacter(k int64, ops []int) byte {
             shifts += ops[op]
         }
     }
-    return byte((('a' - 'a' + shifts) % 26) + 'a')
+    return byte((shifts % 26) + 'a')
 }
