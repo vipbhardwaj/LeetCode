@@ -24,8 +24,7 @@ func (this *FindSumPairs) Add(i int, val int)  {
 func (this *FindSumPairs) Count(tot int) int {
     var res int
     for _, i := range this.nums1 {
-        var comp int = tot - i
-        res += this.cache[comp]
+        res += this.cache[tot - i]
     }
     return res
 }
