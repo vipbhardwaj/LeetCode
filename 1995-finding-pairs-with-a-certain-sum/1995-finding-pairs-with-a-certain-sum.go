@@ -6,15 +6,11 @@ type FindSumPairs struct {
 
 
 func Constructor(nums1 []int, nums2 []int) FindSumPairs {
-    f := FindSumPairs{
-        nums1: nums1,
-        nums2: nums2,
-        cache: make(map[int]int),
+    cache := make(map[int]int)
+    for _, v := range nums2 {
+        cache[v]++
     }
-    for _, v := range f.nums2 {
-        f.cache[v]++
-    }
-    return f
+    return FindSumPairs{nums1: nums1, nums2: nums2, cache: cache}
 }
 
 
