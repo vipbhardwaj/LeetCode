@@ -10,6 +10,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,12 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
