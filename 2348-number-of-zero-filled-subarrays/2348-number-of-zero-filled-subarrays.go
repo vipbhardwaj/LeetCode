@@ -1,14 +1,12 @@
 func zeroFilledSubarray(nums []int) int64 {
-    nums = append(nums, 1)
-    var sum, res int64 = 0, 0
-
-    for _, n := range nums {
-        if n == 0 {
-            sum++
-        } else {
-            res += sum * (sum+1) / 2
-            sum = 0
+    var res, currZeroes int64
+    for _, v := range nums {
+        if  v != 0 {
+            currZeroes = 0
+            continue
         }
+        res += currZeroes + 1
+        currZeroes++
     }
     return res
 }
