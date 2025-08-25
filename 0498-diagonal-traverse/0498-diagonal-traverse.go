@@ -3,7 +3,6 @@ func findDiagonalOrder(mat [][]int) []int {
     var res []int
     for len(res) < m*n  {
         for i < m && j >= 0 && i >= 0 && j < n {
-            fmt.Println(mat[i][j])
             res = append(res, mat[i][j])
             i += ic
             j += jc
