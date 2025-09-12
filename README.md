@@ -40,6 +40,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Math
 |  |
 | ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -73,4 +74,16 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
