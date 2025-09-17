@@ -50,15 +50,14 @@ func (fr *FoodRatings) HighestRated(cuisine string) string {
 type Food struct {
     name   string
     rating int
-    index  int // required for heap updates
+    index  int
 }
-
 type FoodHeap []*Food
 
-func (fh FoodHeap) Len() int            { return len(fh) }
-func (fh FoodHeap) Less(i, j int) bool  {
+func (fh FoodHeap) Len() int { return len(fh) }
+func (fh FoodHeap) Less(i, j int) bool {
     if fh[i].rating == fh[j].rating {
-        return fh[i].name < fh[j].name // lexicographical tie-breaker
+        return fh[i].name < fh[j].name
     }
     return fh[i].rating > fh[j].rating
 }
@@ -67,13 +66,11 @@ func (fh FoodHeap) Swap(i, j int) {
     fh[i].index = i
     fh[j].index = j
 }
-
 func (fh *FoodHeap) Push(x interface{}) {
     item := x.(*Food)
     item.index = len(*fh)
     *fh = append(*fh, item)
 }
-
 func (fh *FoodHeap) Pop() interface{} {
     old := *fh
     n := len(old)
