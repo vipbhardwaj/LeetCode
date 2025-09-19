@@ -1,12 +1,10 @@
 type Spreadsheet struct {
     sheet [][]int
-    m map[string]int
 }
 
 func Constructor(rows int) Spreadsheet {
     excel := Spreadsheet {
         sheet: make([][]int, rows+1),
-        m: make(map[string]int),
     }
     for i, row := range excel.sheet {
         row = make([]int, 26)
@@ -17,7 +15,6 @@ func Constructor(rows int) Spreadsheet {
 
 func (this *Spreadsheet) SetCell(cell string, value int)  {
     row, col, _ := getCoord(cell)
-    this.m[cell] = value
     this.sheet[row][col] = value
 }
 
