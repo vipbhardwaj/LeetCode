@@ -54,8 +54,5 @@ func (this *Router) GetCount(destination int, startTime int, endTime int) int {
 	}
 	left := sort.SearchInts(times, startTime)
     right := sort.Search(len(times), func(i int) bool { return times[i] > endTime })
-    if right < left {
-        return 0
-    }
     return right - left
 }
