@@ -20,26 +20,12 @@ func (this *Router) AddPacket(source int, destination int, timestamp int) bool {
 		return false
 	}
 	if this.memLeft == 0 {
-		old := this.packets[0]
-		this.packets = this.packets[1:]
-		delete(this.seen, [3]int{old[0], old[1], old[2]})
-		tlist := this.byDest[old[1]]
-		idx := sort.SearchInts(tlist, old[2])
-		if idx < len(tlist) && tlist[idx] == old[2] {
-			this.byDest[old[1]] = append(tlist[:idx], tlist[idx+1:]...)
-		}
-	} else {
-		this.memLeft--
+		this.ForwardPacket()
 	}
 	this.packets = append(this.packets, []int{source, destination, timestamp})
 	this.seen[key] = true
-	tlist := this.byDest[destination]
-	idx := sort.SearchInts(tlist, timestamp)
-	tlist = append(tlist, 0)
-	copy(tlist[idx + 1:], tlist[idx:])
-	tlist[idx] = timestamp
-	this.byDest[destination] = tlist
-
+	this.byDest[destination] = append(this.byDest[destination], timestamp)
+    this.memLeft--
 	return true
 }
 
@@ -49,27 +35,27 @@ func (this *Router) ForwardPacket() []int {
 	}
 	packet := this.packets[0]
     this.packets = this.packets[1:]
-    destination, timestamp := packet[1], packet[2]
-    tlist := this.byDest[destination]
-	idx := sort.SearchInts(tlist, timestamp)
-    if idx < len(tlist) - 1 {
-	    copy(tlist[idx:], tlist[idx + 1:])
-    }
-	tlist = tlist[:len(tlist) - 1]
-	this.byDest[destination] = tlist
-    delete(this.seen, [3]int{packet[0], destination, timestamp})
+    delete(this.seen, [3]int{packet[0], packet[1], packet[2]})
     this.memLeft++
+
+    times := this.byDest[packet[1]][1:]
+    if len(times) == 0 {
+        delete(this.byDest, packet[1])
+    } else {
+        this.byDest[packet[1]] = times
+    }
 	return packet
 }
 
 func (this *Router) GetCount(destination int, startTime int, endTime int) int {
-    tlist := this.byDest[destination]
-	if len(tlist) == 0 {
+    times, ok := this.byDest[destination]
+	if !ok {
 		return 0
 	}
-	left := sort.SearchInts(tlist, startTime)
-	right := sort.Search(len(tlist), func(i int) bool {
-		return tlist[i] > endTime
-	})
+	left := sort.SearchInts(times, startTime)
+    right := sort.Search(len(times), func(i int) bool { return times[i] > endTime })
+    if right < left {
+        return 0
+    }
     return right - left
 }
