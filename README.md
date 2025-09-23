@@ -39,6 +39,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -88,6 +89,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
