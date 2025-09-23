@@ -1,86 +1,36 @@
 func compareVersion(version1 string, version2 string) int {
-    revisions1 := strings.Split(version1, ".")
-    revisions2 := strings.Split(version2, ".")
-
-    batch1 := process(revisions1)
-    batch2 := process(revisions2)
-
-    batch1 = trailRemover(batch1)
-    batch2 = trailRemover(batch2)
-
-    return compareBatch(batch1, batch2)
-}
-
-func trailRemover(batch []int) []int {
-    if len(batch) == 0 {
-        return []int{0}
-    }
-    if batch[len(batch)-1] == 0 {
-        return trailRemover(batch[:len(batch)-1])
-    } else {
-        return batch
-    }
-}
-
-func compareBatch(rev1 []int, rev2 []int) int {
-    for i, j := 0, 0; i < len(rev1) && j < len(rev2); i,j = i+1, j+1 {
-        if rev1[i] > rev2[j] {
-            return 1
-        } else if rev1[i] < rev2[j] {
+    var s1, s2 []string = strings.Split(version1, "."), strings.Split(version2, ".")
+    var v1, v2 []int = convert(s1), convert(s2)
+    var minl int = min(len(v1), len(v2))
+    for i := 0; i < minl; i++ {
+        if v1[i] < v2[i] {
             return -1
-        } else {
-            continue
+        } else if v1[i] > v2[i] {
+            return 1
         }
     }
-
-    var rev []int
-    var l int
-    var s int
-    if len(rev1) > len(rev2) {
-        rev = rev1
-        l = len(rev1)
-        s = len(rev1) - len(rev2)
-    } else if len(rev2) > len(rev1) {
-        rev = rev2
-        l = len(rev2)
-        s = len(rev2) - len(rev1)
-    } else {
-        return 0
-    }
-
-    for i:=s; i<l; i++ {
-        if rev[i] == 0 {
-            continue
-        } else {
-            break
-        }
-    }
-    if len(rev1) > len(rev2) {
+    if len(v1) > len(v2) {
         return 1
-    } else if len(rev2) > len(rev1) {
+    } else if len(v1) < len(v2) {
         return -1
-    } else {
-        return 0
     }
+    return 0
 }
 
-func process(revs []string) []int {
-    var processed []int
-    for _, rev := range revs {
-        flag := true
-        batch := 0
-        for _, c := range rev {
-            if flag && c == '0' {
-                continue
-            }
-            flag = false
-            batch += 10*batch + int(c-'0')
+func convert(s []string) []int {
+    var v []int
+    for _, subs := range s {
+        var r int
+        for _, c := range subs {
+            r *= 10
+            r += int(c - '0')
         }
-        if batch > 0 {
-            processed = append(processed, batch)
-        } else {
-            processed = append(processed, 0)
-        }
+        // if r == 0 {
+        //     continue
+        // }
+        v = append(v, r)
     }
-    return processed
+    var i int = len(v)-1
+    for; i >= 0 && v[i] == 0; i-- {}
+    return v[:i+1]
 }
