@@ -10,6 +10,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vipbhardwaj/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -121,6 +122,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Matrix
 |  |
 | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vipbhardwaj/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
