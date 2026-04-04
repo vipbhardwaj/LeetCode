@@ -16,6 +16,5 @@ func decodeCiphertext(s string, rows int) string {
 			c++
 		}
 	}
-
 	return strings.TrimRight(string(res), " ")
 }
