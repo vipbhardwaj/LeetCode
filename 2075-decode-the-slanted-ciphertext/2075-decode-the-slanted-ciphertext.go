@@ -5,7 +5,6 @@ func decodeCiphertext(s string, rows int) string {
 
 	cols := int(math.Ceil(float64(len(s)) / float64(rows)))
 	var res []byte
-
 	for start := 0; start < cols; start++ {
 		r, c := 0, start
 		for r < rows && c < cols {
