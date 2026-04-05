@@ -77,6 +77,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vipbhardwaj/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
@@ -106,6 +107,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
