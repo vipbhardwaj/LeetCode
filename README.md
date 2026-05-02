@@ -63,6 +63,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -139,6 +140,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Backtracking
