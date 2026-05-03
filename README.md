@@ -113,6 +113,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/vipbhardwaj/LeetCode/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -163,4 +164,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vipbhardwaj/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
