@@ -3,15 +3,12 @@ func rotateString(s string, goal string) bool {
     if l != len(goal) {
         return false
     }
-    if s == goal {
-        return true
-    }
     var ss strings.Builder
     ss.WriteString(s)
     ss.WriteString(s)
     s = ss.String()
 
-    for i := 1; i < l; i++ {
+    for i := 0; i < l; i++ {
         if makeStr(i, s, l) == goal {
             return true
         }
