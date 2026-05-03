@@ -1,8 +1,11 @@
 func rotateString(s string, goal string) bool {
+    var l int = len(s)
+    if l != len(goal) {
+        return false
+    }
     if s == goal {
         return true
     }
-    var l int = len(s)
     var ss strings.Builder
     ss.WriteString(s)
     ss.WriteString(s)
