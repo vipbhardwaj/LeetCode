@@ -10,7 +10,6 @@ func maxValue(nums []int) []int {
 	stack := make([]Item, 0)
 	for i := 0; i < n; i++ {
 		curr := Item{nums[i], i, i}
-
 		for len(stack) > 0 && stack[len(stack)-1].value > nums[i] {
 			top := stack[len(stack)-1]
 			stack = stack[:len(stack)-1]
