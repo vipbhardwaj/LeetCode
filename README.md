@@ -20,6 +20,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -144,6 +145,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
 ## Backtracking
 |  |
 | ------- |
