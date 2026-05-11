@@ -19,6 +19,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vipbhardwaj/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -87,6 +88,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vipbhardwaj/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
