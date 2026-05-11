@@ -1,6 +1,6 @@
 func separateDigits(nums []int) []int {
-    return asString(nums)
-    return asArray(nums)
+    return asString(nums) // faster
+    return asArray(nums) // involves another O(n) to reverse the modulated number since its back to front
 }
 
 func asString(nums []int) []int {
