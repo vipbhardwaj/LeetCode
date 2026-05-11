@@ -1,4 +1,19 @@
 func separateDigits(nums []int) []int {
+    return asString(nums)
+    return asArray(nums)
+}
+
+func asString(nums []int) []int {
+    var res []int
+    for _, i := range nums {
+        for _, j := range strconv.Itoa(i) {
+            res = append(res, int(j - '0'))
+        }
+    }
+    return res
+}
+
+func asArray(nums []int) []int {
     var res []int
     for _, i := range nums {
         var temp []int
