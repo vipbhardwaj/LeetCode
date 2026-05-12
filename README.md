@@ -15,6 +15,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vipbhardwaj/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -45,6 +46,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
@@ -107,6 +109,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
