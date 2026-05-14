@@ -22,6 +22,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vipbhardwaj/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
@@ -38,6 +39,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -49,6 +51,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
