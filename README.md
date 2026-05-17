@@ -11,6 +11,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -174,10 +175,12 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
 |  |
