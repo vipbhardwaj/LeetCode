@@ -15,6 +15,8 @@ func minJumps(arr []int) int {
     visited[0] = true
     queue := []int{0}
     step := 0
+
+    // Don't know how this really works at all...
     for len(queue) > 0 {
         size := len(queue)
         for i := 0; i < size; i++ {
