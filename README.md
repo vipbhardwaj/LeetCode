@@ -24,6 +24,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vipbhardwaj/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -44,6 +45,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -68,6 +70,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +78,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
