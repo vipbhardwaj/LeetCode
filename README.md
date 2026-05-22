@@ -6,6 +6,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
@@ -76,6 +77,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
