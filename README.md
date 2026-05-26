@@ -150,6 +150,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vipbhardwaj/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/vipbhardwaj/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -179,6 +180,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1340-jump-game-v](https://github.com/vipbhardwaj/LeetCode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vipbhardwaj/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
@@ -189,6 +191,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Depth-First Search
 |  |
@@ -213,4 +216,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vipbhardwaj/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
