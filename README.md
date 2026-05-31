@@ -38,6 +38,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -59,6 +60,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vipbhardwaj/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -104,6 +106,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +216,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
@@ -237,4 +241,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
