@@ -42,6 +42,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
@@ -151,6 +152,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2126-destroying-asteroids](https://github.com/vipbhardwaj/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vipbhardwaj/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
 |  |
