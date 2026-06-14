@@ -7,7 +7,6 @@ func mincostToHireWorkers(quality []int, wage []int, k int) float64 {
     sort.Slice(indv, func(i, j int) bool {
         return indv[i][0] < indv[j][0]
     })
-    fmt.Println(indv)
     
     var res float64 = 1e18
     var curr int
@@ -15,6 +14,7 @@ func mincostToHireWorkers(quality []int, wage []int, k int) float64 {
     for i := range indv {
         curr += int(indv[i][1])
         heap.Push(h, int(indv[i][1]))
+
         if h.Len() > k {
             curr -= heap.Pop(h).(int)
         }
