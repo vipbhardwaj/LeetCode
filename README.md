@@ -10,6 +10,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
@@ -70,6 +71,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1340-jump-game-v](https://github.com/vipbhardwaj/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -82,6 +84,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
@@ -148,6 +151,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/vipbhardwaj/LeetCode/tree/master/2126-destroying-asteroids) |
