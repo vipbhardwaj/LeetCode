@@ -8,7 +8,7 @@ func sumOfDistancesInTree(n int, edges [][]int) []int {
         m[e[1]] = append(m[e[1]], e[0])
     }
     postOrder(m, 0, -1, count, res)
-    preOrder(m, 0, -1, count, res)
+    preOrder(m, 0, -1, n, count, res)
     return res
 }
 
@@ -21,10 +21,10 @@ func postOrder(m map[int][]int, node, parent int, count, res []int) {
     }
 }
 
-func preOrder(m map[int][]int, node, parent int, count, res []int) {
+func preOrder(m map[int][]int, node, parent, n int, count, res []int) {
     for _, child := range m[node] {
         if child == parent { continue }
-        res[child] = res[node] - count[child] + len(m) - count[child]
-        preOrder(m, child, node, count, res)
+        res[child] = res[node] - count[child] + n - count[child]
+        preOrder(m, child, node, n, count, res)
     }
 }
