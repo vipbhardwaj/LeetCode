@@ -123,6 +123,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vipbhardwaj/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vipbhardwaj/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vipbhardwaj/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3612-process-string-with-special-operations-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vipbhardwaj/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Brainteaser
 |  |
 | ------- |
@@ -216,6 +219,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vipbhardwaj/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
