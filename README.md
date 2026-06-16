@@ -4,8 +4,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -47,8 +47,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
@@ -69,8 +69,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1340-jump-game-v](https://github.com/vipbhardwaj/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -82,14 +82,14 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/vipbhardwaj/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -97,8 +97,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -107,8 +107,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -118,40 +118,41 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vipbhardwaj/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vipbhardwaj/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/vipbhardwaj/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vipbhardwaj/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -161,13 +162,13 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3689-maximum-total-subarray-value-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0165-compare-version-numbers](https://github.com/vipbhardwaj/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/vipbhardwaj/LeetCode/tree/master/0796-rotate-string) |
@@ -181,26 +182,27 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vipbhardwaj/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vipbhardwaj/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/vipbhardwaj/LeetCode/tree/master/0788-rotated-digits) |
 | [0834-sum-of-distances-in-tree](https://github.com/vipbhardwaj/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -211,71 +213,71 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vipbhardwaj/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/vipbhardwaj/LeetCode/tree/master/3660-jump-game-ix) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/vipbhardwaj/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/vipbhardwaj/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/vipbhardwaj/LeetCode/tree/master/0796-rotate-string) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vipbhardwaj/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vipbhardwaj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/vipbhardwaj/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/vipbhardwaj/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 <!---LeetCode Topics End-->
