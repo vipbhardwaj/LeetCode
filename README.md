@@ -49,6 +49,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
@@ -150,6 +151,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
@@ -271,6 +273,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vipbhardwaj/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -285,4 +288,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/vipbhardwaj/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
