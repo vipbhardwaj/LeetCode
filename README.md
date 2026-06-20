@@ -9,6 +9,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0396-rotate-function](https://github.com/vipbhardwaj/LeetCode/tree/master/0396-rotate-function) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -106,6 +107,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0033-search-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vipbhardwaj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2540-minimum-common-value](https://github.com/vipbhardwaj/LeetCode/tree/master/2540-minimum-common-value) |
@@ -266,10 +268,12 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [3161-block-placement-queries](https://github.com/vipbhardwaj/LeetCode/tree/master/3161-block-placement-queries) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -297,4 +301,16 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vipbhardwaj/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
