@@ -7,7 +7,6 @@ func countSmaller(nums []int) []int {
         pairs[i] = []int{v, i}
         temp[i] = []int{v, i}
     }
-    
     merge_sort(0, n-1, ans, pairs, temp)
     return ans
 }
