@@ -18,7 +18,7 @@ func merge_sort(s, e int, ans []int, pairs, temp [][]int) {
     merge_sort(m+1, e, ans, pairs, temp)
 
     l, r, i, nRightLessThanLeft := s, m + 1, s, 0
-    for l <= m && r <= e {
+    for; l <= m && r <= e; i++ {
         if pairs[l][0] <= pairs[r][0] {
             ans[pairs[l][1]] += nRightLessThanLeft
             temp[i] = pairs[l]
@@ -28,17 +28,14 @@ func merge_sort(s, e int, ans []int, pairs, temp [][]int) {
             nRightLessThanLeft++
             r++
         }
-        i++
     }
-    for l <= m {
+    for; l <= m; i++ {
         ans[pairs[l][1]] += nRightLessThanLeft
         temp[i] = pairs[l]
-        i++
         l++
     }
-    for r <= e {
+    for; r <= e; i++ {
         temp[i] = pairs[r]
-        i++
         r++
     }
     for j:=s; j<=e; j++ { pairs[j] = temp[j] }
