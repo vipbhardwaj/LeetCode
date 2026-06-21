@@ -148,6 +148,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [2553-separate-the-digits-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vipbhardwaj/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/vipbhardwaj/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vipbhardwaj/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vipbhardwaj/LeetCode/tree/master/3955-valid-binary-strings-with-cost-limit) |
