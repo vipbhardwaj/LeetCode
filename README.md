@@ -55,6 +55,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0460-lfu-cache](https://github.com/vipbhardwaj/LeetCode/tree/main/0460-lfu-cache/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/vipbhardwaj/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -152,6 +153,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vipbhardwaj/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/vipbhardwaj/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -188,6 +190,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0657-robot-return-to-origin](https://github.com/vipbhardwaj/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/vipbhardwaj/LeetCode/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/vipbhardwaj/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
