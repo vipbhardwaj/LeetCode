@@ -31,6 +31,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/vipbhardwaj/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vipbhardwaj/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2126-destroying-asteroids](https://github.com/vipbhardwaj/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vipbhardwaj/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -201,6 +202,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vipbhardwaj/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/vipbhardwaj/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/vipbhardwaj/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vipbhardwaj/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
