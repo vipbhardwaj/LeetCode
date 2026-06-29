@@ -30,6 +30,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vipbhardwaj/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/vipbhardwaj/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vipbhardwaj/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/vipbhardwaj/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vipbhardwaj/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -88,6 +89,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/vipbhardwaj/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vipbhardwaj/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/vipbhardwaj/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vipbhardwaj/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -179,6 +181,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vipbhardwaj/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vipbhardwaj/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/vipbhardwaj/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vipbhardwaj/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vipbhardwaj/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
