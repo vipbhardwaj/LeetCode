@@ -15,6 +15,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/vipbhardwaj/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vipbhardwaj/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1288-remove-covered-intervals](https://github.com/vipbhardwaj/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/vipbhardwaj/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/vipbhardwaj/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/vipbhardwaj/LeetCode/tree/master/1345-jump-game-iv) |
@@ -83,6 +84,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/vipbhardwaj/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/vipbhardwaj/LeetCode/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
+| [1288-remove-covered-intervals](https://github.com/vipbhardwaj/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/vipbhardwaj/LeetCode/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vipbhardwaj/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
