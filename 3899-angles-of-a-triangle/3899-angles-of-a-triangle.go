@@ -1,13 +1,4 @@
 func internalAngles(sides []int) []float64 {
-    // m, mi := 0, 0
-    // for i, s := range sides {
-    //     if s > m {
-    //         m = s
-    //         mi = i
-    //     }
-    // }
-    // if sides[mi]
-
     slices.Sort(sides)
     a, b, c := sides[0], sides[1], sides[2]
     if a + b <= c { return []float64{} }
