@@ -54,6 +54,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3689-maximum-total-subarray-value-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3797-design-spreadsheet](https://github.com/vipbhardwaj/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3899-angles-of-a-triangle](https://github.com/vipbhardwaj/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/vipbhardwaj/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vipbhardwaj/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vipbhardwaj/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3899-angles-of-a-triangle](https://github.com/vipbhardwaj/LeetCode/tree/master/3899-angles-of-a-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -339,4 +341,8 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Geometry
+|  |
+| ------- |
+| [3899-angles-of-a-triangle](https://github.com/vipbhardwaj/LeetCode/tree/master/3899-angles-of-a-triangle) |
 <!---LeetCode Topics End-->
