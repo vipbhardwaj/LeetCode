@@ -29,6 +29,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vipbhardwaj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/vipbhardwaj/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vipbhardwaj/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/vipbhardwaj/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/vipbhardwaj/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vipbhardwaj/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vipbhardwaj/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/vipbhardwaj/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vipbhardwaj/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vipbhardwaj/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vipbhardwaj/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -213,6 +215,7 @@ Collection of LeetCode / GeeksForGeeks questions to ace the coding interview! - 
 | [1189-maximum-number-of-balloons](https://github.com/vipbhardwaj/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vipbhardwaj/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vipbhardwaj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipbhardwaj/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/vipbhardwaj/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vipbhardwaj/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vipbhardwaj/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
